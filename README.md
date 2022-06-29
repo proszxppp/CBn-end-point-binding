@@ -1,4 +1,4 @@
-# CB8-end-point
+# CB8-end-point-calculation
 
 This folder contains all charge models employed in our extensive end-point free energy calculations on the Cucurbit[8]uril host-guest systems.
 
