@@ -1,12 +1,15 @@
 # CBn-end-point-binding
 
-This folder contains parameters and initial conditions for complexes used in our large-scale end-point free energy calculations on the Cucurbit[n]uril (n=7 or 8) host-guest systems.
+This folder is the official data repository of our recent paper on large-scale end-point free energy calculations on the Cucurbit[n]uril (n=7 or 8) host-guest systems. 
 
-The atomic-charge files for the CBn hosts and the drug-like guests binding to them can be found in the folders named CB7 and CB8.
+The paper is built on another paper by us focusing on a detailed yet general inspection of dynamic behaviors produced by general-purpose force fields. The 7-unit and 8-unit hosts exhibit similar dynamic behaivors under GAFF2, but noticeable differences are identified under GAFF, which is related to the intrinsic flexibility of the host ring. For more detailed analyses, please visit . 
 
-The docking-produced initial conditions of host-guest complexes are put in the Dockdata folder. 
+For reusing/reproducing usages, we share the parameters and initial conditions for complexes. 
 
-The full text of the manuscript is freely available online at 
+The atomic-charge files in the mol2 format for the CBn hosts and the drug-like guests binding to them can be found in the folders named CB7 and CB8. 
+
+The docking-produced initial conditions of host-guest complexes are put in the Dockdata folder. When reusing these data, please combine the host and guest coordinates into a single file to make the bound complex. 
+
+The full text of the current CBn end-point manuscript is freely available online at 
 
 or published version at 
-
