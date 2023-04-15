@@ -8,7 +8,7 @@ For reusing/reproducing usages, we share the parameters and initial conditions f
 
 The atomic-charge files in the mol2 format for the CBn hosts and the drug-like guests binding to them can be found in the folders named CB7 and CB8. 
 
-The docking-produced initial conditions of host-guest complexes are put in the Dockdata folder. When reusing these data, please combine the host and guest coordinates into a single file to make the bound complex. 
+The docking-produced initial conditions of host-guest complexes are put in folders with the docking keyword. When reusing these data, please combine the host and guest coordinates into a single file to make the bound complex. 
 
 The full text of the current CBn end-point manuscript is freely available online at 
 
