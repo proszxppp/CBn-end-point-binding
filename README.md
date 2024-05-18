@@ -12,3 +12,5 @@ The docking-produced initial conditions of host-guest complexes are put in folde
 
 End-point sampling parameters include the constant-volume heating in 120 ps, NPT equilibration for 1 ns, and 200 ns unbiased sampling in the host-guest and unbound guest states and 20000 ns for the unbound host state, with a sampling interval of 10 ps. 
 
+We additionally provide the binding energetics as an editable docx file for the supporting information, which enables the knowledgeable end-user to quickly assess the performance of the GAFF derivatives in the MM/GBSA approach by classifying the guests according to their chemical features so as to identify weaknesses and strengths of the force field.
+
