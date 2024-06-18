@@ -1,6 +1,6 @@
 # CBn-end-point-binding
 
-This folder is the official data repository of our recent paper on large-scale end-point free energy calculations on the Cucurbit[n]uril (n=7 or 8) host-guest systems. 
+This folder is the official data repository of our recent paper on large-scale end-point free energy calculations on the Cucurbit[n]uril (n=7 or 8) host-guest systems, https://doi.org/10.1016/j.molliq.2024.125245.  
 
 The paper is built on another paper by us focusing on a detailed yet general inspection of dynamic behaviors produced by general-purpose force fields, see https://github.com/proszxppp/host-dynamics for details. The 7-unit and 8-unit hosts exhibit similar dynamic behaivors under GAFF2, but noticeable differences are identified under GAFF, which is related to the intrinsic flexibility of the host ring. Whether this difference between host dynamics would lead to significant accuracy variations in end-point free energy calculations is the main topic investigated in this work.  
 
